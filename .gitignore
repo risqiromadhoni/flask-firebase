@@ -1,0 +1,7 @@
+google-cloud-sdk
+.vscode
+__pycache__
+penv
+settings/firebase.json
+config/firebase.json
+firebase.json
